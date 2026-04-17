@@ -1,4 +1,4 @@
-# Terminal-colors for LazyVim
+# Terminal colors for LazyVim
 
 A lightweight configuration for **LazyVim** that forces the editor to strictly use your terminal's ANSI color palette
 
